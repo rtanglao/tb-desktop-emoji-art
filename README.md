@@ -1,5 +1,10 @@
 # tb-desktop-emoji-art
-## 2024-12-04 make ashalar pngs
+## 2024-12-04 make ashlar Art of Wear Leggings png
+```bash
+magick '*-emoji.png' -define ashlar:best-fit=true \
+'ashlar:ashlar-magick-artofwhere-tb-aaq-2023-04-01-2024-11-03_emoji.png[3325x6358+0+0]'
+```
+## 2024-12-04 make ashlar png
 ```bash
 magick '*-emoji.png' -define ashlar:best-fit=true \
 'ashlar:ashlar-magick-3000-tb-aaq-2023-04-01-2024-11-03_emoji.png[3000x3000+0+0]'
