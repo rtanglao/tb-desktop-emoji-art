@@ -1,4 +1,9 @@
 # tb-desktop-emoji-art
+## 2024-12-04 make ashalar pngs
+```bash
+magick '*-emoji.png' -define ashlar:best-fit=true \
+'ashlar:ashlar-magick-3000-tb-aaq-2023-04-01-2024-11-03_emoji.png[3000x3000+0+0]'
+```
 ## 2024-12-04 make emoji pngs
 ```bash
 mkdir EMOJI_PNGS
