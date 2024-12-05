@@ -2,7 +2,7 @@
 
 ## 2024-12-04 make non ashlar hot pink Art of Where leggings png
 * typical size is 146x15  3325/146 = 23 width 6358/15 = 424 height
-* 
+
 ```bash
 magick montage "*-emoji.png" -tile 23*424  \
 -geometry "23x424+0+0" \
