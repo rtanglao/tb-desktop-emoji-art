@@ -8,6 +8,11 @@ magick montage "*-emoji.png" -tile 23x424  \
 -geometry "146x15+0+0" \
 hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
 ```
+* which results in:
+    * hotpink_2023_04_01_2024_11_03_tbaaq_emoji-0.png
+    * hotpink_2023_04_01_2024_11_03_tbaaq_emoji-1.png
+* Use 0 for left and 1 for right!
+
 ## 2024-12-04 make ashlar HOT PINK :-) Art of Where Leggings png
 ```bash
 magick '*-emoji.png' -define ashlar:best-fit=true \
