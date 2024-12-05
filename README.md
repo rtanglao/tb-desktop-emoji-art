@@ -5,7 +5,7 @@
 
 ```bash
 magick montage "*-emoji.png" -tile 23x424  \
--geometry "23x424+0+0" \
+-geometry "146x15+0+0" \
 hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
 ```
 ## 2024-12-04 make ashlar HOT PINK :-) Art of Where Leggings png
