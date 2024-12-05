@@ -1,5 +1,10 @@
 # tb-desktop-emoji-art
-## 2024-12-04 make ashlar HOT PINK :-) Art of Wear Leggings png
+
+## 2024-12-04 make non ashlar hot pink Art of Where leggings png
+```bash
+magick montage "*.JPG[1x1]" -tile 80x24  -geometry "20x20+0+0" hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
+```
+## 2024-12-04 make ashlar HOT PINK :-) Art of Where Leggings png
 ```bash
 magick '*-emoji.png' -define ashlar:best-fit=true \
 'ashlar:hotpink-ashlar-magick-artofwhere-tb-aaq-2023-04-01-2024-11-03_emoji.png[3325x6358+0+0]'
