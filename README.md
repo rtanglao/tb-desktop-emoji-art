@@ -4,7 +4,7 @@
 * typical size is 146x15  3325/146 = 23 width 6358/15 = 424 height
 
 ```bash
-magick montage "*-emoji.png" -tile 23*424  \
+magick montage "*-emoji.png" -tile 23x424  \
 -geometry "23x424+0+0" \
 hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
 ```
