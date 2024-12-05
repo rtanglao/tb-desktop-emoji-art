@@ -1,8 +1,12 @@
 # tb-desktop-emoji-art
 
 ## 2024-12-04 make non ashlar hot pink Art of Where leggings png
+* typical size is 146x15  3325/146 = 23 width 6358/15 = 424 height
+* 
 ```bash
-magick montage "*.JPG[1x1]" -tile 80x24  -geometry "20x20+0+0" hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
+magick montage "*-emoji.png" -tile 23*424  \
+-geometry "23x424+0+0" \
+hotpink_2023_04_01_2024_11_03_tbaaq_emoji.png
 ```
 ## 2024-12-04 make ashlar HOT PINK :-) Art of Where Leggings png
 ```bash
