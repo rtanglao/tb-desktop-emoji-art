@@ -1,4 +1,11 @@
 # tb-desktop-emoji-art
+
+## 2024-12-04 let's try hot pink :-)
+```bash
+mkdir HOTPINK_EMOJIS
+cd !$
+../create_hot_pink_emoji_pngs_from_sumo_questions.rb ../regex-matches-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv
+```
 ## 2024-12-04 make ashlar Art of Wear Leggings png
 ```bash
 magick '*-emoji.png' -define ashlar:best-fit=true \
