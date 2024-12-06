@@ -1,5 +1,17 @@
 # tb-desktop-emoji-art
 
+## 2024-12-05 make leggings
+* typical size is 369x63  3325/369 = 9 width 6358/63 = 101 height
+
+```bash
+magick montage "*-emoji.png" -tile 9x101  \
+-geometry "369x63+0+0" \
+hotpink_300DPI_2023_04_01_2024_11_03_tbaaq_emoji.png
+```
+* which results in:
+    * hotpink_2023_04_01_2024_11_03_tbaaq_emoji-0.png
+    * hotpink_2023_04_01_2024_11_03_tbaaq_emoji-1.png
+* Use 0 for left and 1 for right!
 ## 2024-12-05 emojis only 300 dpi
 ```bash
 cd PNGs/EMOJIS_ONLY_300DPI
