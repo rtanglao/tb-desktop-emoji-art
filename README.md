@@ -1,5 +1,10 @@
 # tb-desktop-emoji-art
 
+## 2024-12-05 emojis only 300 dpi
+```bash
+cd PNGs/EMOJIS_ONLY_300DPI
+../../regex-matches-link_epoch_time_yyyy_mm_dd_iso_week_2023-2024-yearly-thunderbird-questions.csv
+```
 ## 2024-12-04 make non ashlar hot pink Art of Where leggings png
 * typical size is 146x15  3325/146 = 23 width 6358/15 = 424 height
 
